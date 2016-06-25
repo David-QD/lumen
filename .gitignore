@@ -1,2 +1,5 @@
 # exclude the config file of the phpstorm
 .idea/
+.DS_Store
+blog/.DS_Store
+blog/logreport/
